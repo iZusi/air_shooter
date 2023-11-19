@@ -1,4 +1,4 @@
-# Air Shooter: My CS50 Final Project
+# Air Shooter: My CS50P Final Project
 
 Air Shooter is a simple 2D shooting game built in Python using the Pygame library. The game features a player-controlled spaceship, obstacles to avoid, bullets to shoot, and a scoring system.
 
