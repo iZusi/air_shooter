@@ -66,7 +66,6 @@ class CloudsMock:
         return iter(self.clouds)
 
     def draw_called(self):
-        # You can add more specific logic here if needed
         return any(cloud.draw_called() for cloud in self.clouds)
 
 class CloudMock:
