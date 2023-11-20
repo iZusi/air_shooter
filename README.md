@@ -27,7 +27,7 @@ To run the Air Shooter game, you need to have Python and Pygame installed. Follo
 
 - Clone the repository:
    ```bash
-   git clone https://github.com/your-username/air-shooter.git
+   git clone https://github.com/iZusi/air-shooter.git
    cd air-shooter
 
 - Install required dependencies
