@@ -50,7 +50,7 @@ python air_shooter.py
 
 ## Video Demo
 
-[![Watch the video demo](https://img.youtube.com/vi/ZmBNUDnxiQs/0.jpg)](https://youtube.com/watch?v=ZmBNUDnxiQs)
+[![Watch the video demo](https://img.youtube.com/vi/S8st-SyQFzY/0.jpg)](https://youtube.com/watch?v=S8st-SyQFzY)
 
 ## Code Explanation
 To make things a bit easy for me, I broke the code into two main sections: 'Game Classes' and 'Game Functions.'
